@@ -125,79 +125,6 @@ Navigate to `http://localhost:5173` in your browser.
 ### Deployment Platform
 - **AWS** - Scalable cloud infrastructure
 
-## Features
-
-### User Authentication
-
-Secure registration and login system with JWT-based authentication. Users can create accounts, log in, and manage their profiles with password encryption and session management.
-
-![User Authentication](./screenshots/authentication.png)
-
-### Property Listing
-
-Browse a comprehensive catalog of available properties with detailed information, images, pricing, and amenities. Properties are displayed in a responsive grid layout with filtering options.
-
-![Property Listing](./screenshots/property-listing.png)
-
-### Host Your Property
-
-Property owners can list their spaces by providing detailed descriptions, uploading multiple images, setting pricing, and specifying amenities. The intuitive form guides hosts through the listing process.
-
-![Host Property](./screenshots/host-property.png)
-
-### Wishlist
-
-Users can save favorite properties to their wishlist for easy access later. The wishlist is persistent and synced across devices.
-
-![Wishlist](./screenshots/wishlist.png)
-
-### Booking & Cancellation
-
-Seamless booking process with date selection, guest count specification, and booking confirmation. Users can view all their bookings and cancel reservations before check-in.
-
-![Booking Management](./screenshots/booking.png)
-
-### Reviews & Ratings
-
-Post-stay review system allowing guests to rate properties and leave detailed feedback. Reviews are displayed on property pages with average ratings visible on property cards.
-
-![Reviews and Ratings](./screenshots/reviews.png)
-
-### Search
-
-Powerful search functionality enabling users to find properties by location, title, or description. Search results update in real-time with relevant matches.
-
-![Search](./screenshots/search.png)
-
-### Profile Management
-
-Users can update their profile information, change passwords, and upload profile pictures. All profile data is securely stored and can be edited at any time.
-
-![Profile Management](./screenshots/profile.png)
-
-### Map Integration
-
-Interactive maps powered by Leaflet display property locations, helping users visualize where properties are situated and explore nearby areas.
-
-![Map Integration](./screenshots/map.png)
-
-### Category Filtering
-
-Filter properties by type including apartments, houses, villas, cabins, and hotels. The responsive filter bar is horizontally scrollable on mobile devices.
-
-![Category Filtering](./screenshots/categories.png)
-
-### Responsive Design
-
-Fully responsive interface optimized for desktop, tablet, and mobile devices. The application provides an excellent user experience across all screen sizes.
-
-![Responsive Design](./screenshots/responsive.png)
-
-### Image Management
-
-Cloudinary integration ensures fast, reliable image delivery through a global CDN. Images are automatically optimized and served in appropriate formats for different devices.
-
-![Image Management](./screenshots/cloudinary.png)
 
 ## Project Structure
 
@@ -314,14 +241,6 @@ Contributions are welcome. Please follow these steps:
 3. Commit your changes (`git commit -m 'Add NewFeature'`)
 4. Push to the branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For questions or support, please contact the development team.
 
 ## Acknowledgments
 
