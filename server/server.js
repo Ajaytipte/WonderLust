@@ -6,6 +6,9 @@ const helmet = require('helmet');
 const morgan = require('morgan');
 const path = require('path');
 
+console.log("CI/CD test");
+
+
 // Load env vars
 dotenv.config();
 
