@@ -28,7 +28,7 @@ Before running this project, ensure you have the following installed:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/WonderLust.git
+git clone https://github.com/Ajaytipte/WonderLust.git
 cd WonderLust
 ```
 
