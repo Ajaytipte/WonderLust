@@ -15,7 +15,8 @@ import { Toaster } from 'react-hot-toast';
 import axios from 'axios';
 
 // Default base URL for axios (if not using the service instance everywhere)
-axios.defaults.baseURL = 'http://localhost:5000/api';
+const apiBase = process.env.REACT_APP_API_URL || 'http://localhost:5000';
+axios.defaults.baseURL = `${apiBase}/api`;
 axios.defaults.withCredentials = true;
 
 function App() {
